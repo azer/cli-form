@@ -1,6 +1,6 @@
 {
   "name": "cli-form",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Build user-friendly command-line forms",
   "main": "index.js",
   "scripts": {
