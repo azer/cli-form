@@ -1,0 +1,26 @@
+{
+  "name": "cli-form",
+  "version": "0.0.0",
+  "description": "Build user-friendly command-line forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "cli",
+    "command-line",
+    "form"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/cli-form.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "cli-qa": "^0.3.0",
+    "config-doc": "^0.1.0",
+    "format-text": "0.0.3",
+    "new-struct": "^0.1.1"
+  }
+}
