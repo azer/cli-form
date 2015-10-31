@@ -18,7 +18,7 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "cli-qa": "^2.1.0",
+    "cli-qa": "^2.1.*",
     "config-doc": "^0.1.0",
     "format-text": "0.0.3",
     "new-struct": "^0.1.1"
