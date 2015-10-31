@@ -23,7 +23,7 @@ var form = NewForm('~/.projects', [
   { title: "Github Repo?", default: "{github}/{name}" }
 ])
 
-form.prompt(function (answers) {
+form.ask(function (answers) {
 
   answers.github
   // => azer
